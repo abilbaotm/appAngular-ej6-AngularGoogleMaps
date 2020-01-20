@@ -1,3 +1,6 @@
+# IMPORTANTE
+Rellenar el fichero src/environments/environment.ts con las credenciales de Google Maps JS
+
 # EJ06AngularGoogleMaps
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
